@@ -2,3 +2,4 @@ websockets
 requests
 pydub
 python-dotenv
+aiohttp

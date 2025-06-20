@@ -1,4 +1,5 @@
 websockets
 requests
+
 pydub
 python-dotenv

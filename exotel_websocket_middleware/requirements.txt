@@ -1,5 +1,5 @@
 websockets
-aiohttp
 requests
-python-dotenv
 pydub
+python-dotenv
+aiohttp
